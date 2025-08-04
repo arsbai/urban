@@ -6,7 +6,7 @@ Motorcycle Rider Identification: Detects motorcycle riders with specialized hand
 Street Vitality Analysis: Supports research on street-level activity and urban mobility patterns
 
 Technical Implementation
-The system is built on deep learning object detection frameworks (lGluonCV) and employs several key technical innovations:
+The system is built on deep learning object detection frameworks (GluonCV) and employs several key technical innovations:
 Bounding Box Relationship Analysis: Calculates spatial relationships between detected objects
 Vertical Alignment Detection: Special algorithms to determine if a person is positioned on a vehicle
 Centroid Distance Normalization: Distance between detection centers normalized by object size for scale-invariant assessment
